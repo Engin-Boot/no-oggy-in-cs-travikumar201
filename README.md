@@ -3,7 +3,7 @@
 
 ## Intention
 
-Function is used to remove 'oggy'.
+This function intends to remove strings containing "oggy" from a list of strings.
 
 ## Method
 
