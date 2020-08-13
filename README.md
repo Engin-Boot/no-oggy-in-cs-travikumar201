@@ -3,7 +3,7 @@
 
 ## Intention
 
-I need to remove 'oggy' to complete my assignment.
+Function is used to remove 'oggy'.
 
 ## Method
 
