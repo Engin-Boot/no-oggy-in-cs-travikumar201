@@ -12,4 +12,4 @@ The code doesn't work according to the intention. Make it succeed.
 
 ## Completion
 
-This assignment has been completed.
+Assignment completed.
